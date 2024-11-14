@@ -48,7 +48,10 @@ text-align: center;
 .menuSuperior li{
     display: inline;
     padding: 5px;
-    border-right: solid 2px black;
+
+}
+.borderderecho li{
+    border-right: solid black;
 }
 .menuSuperior{
     text-transform: uppercase;
